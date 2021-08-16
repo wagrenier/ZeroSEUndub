@@ -1,0 +1,2282 @@
+[
+      {
+            "Id": 0,
+            "TextId": "a Malice.\nIl chasse les t tes.",
+            "Text": "a Malice.\nIl chasse les t tes."
+      },
+      {
+            "Id": 1,
+            "TextId": "Chef de famille\nHimuro, rendu fou par\nla Malice.\nIl chasse les t tes.",
+            "Text": "Chef de famille\nHimuro, rendu fou par\nla Malice.\nIl chasse les t tes."
+      },
+      {
+            "Id": 2,
+            "TextId": "Kirie, jeune fille.\nElle indique la sortie\ndu donjon   Miku.",
+            "Text": "Kirie, jeune fille.\nElle indique la sortie\ndu donjon   Miku."
+      },
+      {
+            "Id": 3,
+            "TextId": "Enfant enlev  par un\nfant me.\nIl attend que quelqu'un\nle trouve.",
+            "Text": "Enfant enlev  par un\nfant me.\nIl attend que quelqu'un\nle trouve."
+      },
+      {
+            "Id": 4,
+            "TextId": "Une victime de la Malice.\nSon  me est emplie de\ncol re.\nAttend un passant.",
+            "Text": "Une victime de la Malice.\nSon  me est emplie de\ncol re.\nAttend un passant."
+      },
+      {
+            "Id": 5,
+            "TextId": "Moine victime de la\nMalice de la Calamit .",
+            "Text": "Moine victime de la\nMalice de la Calamit ."
+      },
+      {
+            "Id": 6,
+            "TextId": "Fant me souffrant\nde la Malice.\nIl essaie de parler aux \ngens de sa souffrance.",
+            "Text": "Fant me souffrant\nde la Malice.\nIl essaie de parler aux \ngens de sa souffrance."
+      },
+      {
+            "Id": 7,
+            "TextId": "Membres de la famille\nHimuro victimes de la\nCalamit .",
+            "Text": "Membres de la famille\nHimuro victimes de la\nCalamit ."
+      },
+      {
+            "Id": 8,
+            "TextId": "Femme victime de\nla Calamit .\nElle arbore son kimono\npr f r .",
+            "Text": "Femme victime de\nla Calamit .\nElle arbore son kimono\npr f r ."
+      },
+      {
+            "Id": 9,
+            "TextId": "Moine victime de la\nMalice de la Calamit .",
+            "Text": "Moine victime de la\nMalice de la Calamit ."
+      },
+      {
+            "Id": 10,
+            "TextId": "Homme fortement touch \npar la Malice.\nIl veut parler   un\npassant de sa souffrance.",
+            "Text": "Homme fortement touch \npar la Malice.\nIl veut parler   un\npassant de sa souffrance."
+      },
+      {
+            "Id": 11,
+            "TextId": "Ogata, l' diteur de\nTakamine.\nIl attend de l'aide,\ncach  dans le placard.",
+            "Text": "Ogata, l' diteur de\nTakamine.\nIl attend de l'aide,\ncach  dans le placard."
+      },
+      {
+            "Id": 12,
+            "TextId": "Hirasaka, l'assistante\nde Takamine. \nMaudite par Kirie.",
+            "Text": "Hirasaka, l'assistante\nde Takamine. \nMaudite par Kirie."
+      },
+      {
+            "Id": 13,
+            "TextId": "Fant me du romancier,\nTakamine.\nIl attend que quelqu'un\npasse.",
+            "Text": "Fant me du romancier,\nTakamine.\nIl attend que quelqu'un\npasse."
+      },
+      {
+            "Id": 14,
+            "TextId": "Fant me de Yae,\nla femme du folkloriste.\nElle veut parler aux \ngens de sa souffrance.",
+            "Text": "Fant me de Yae,\nla femme du folkloriste.\nElle veut parler aux \ngens de sa souffrance."
+      },
+      {
+            "Id": 15,
+            "TextId": "Fant me de Munakata.\nIl veut parler aux gens \nde la mal diction de \nla Vierge des cordes.",
+            "Text": "Fant me de Munakata.\nIl veut parler aux gens \nde la mal diction de \nla Vierge des cordes."
+      },
+      {
+            "Id": 16,
+            "TextId": "Femme d mon aveugle de\nl' poque de Kirie.\nElle cherche le prochain\nd mon.",
+            "Text": "Femme d mon aveugle de\nl' poque de Kirie.\nElle cherche le prochain\nd mon."
+      },
+      {
+            "Id": 17,
+            "TextId": "Chef de famille des\nHimuro. Il regrette \nd'avoir tu  tous\nles gens du manoir.",
+            "Text": "Chef de famille des\nHimuro. Il regrette \nd'avoir tu  tous\nles gens du manoir."
+      },
+      {
+            "Id": 18,
+            "TextId": "Fant me de l'amour\nde Kirie, assassin  dans\nl'abysse. ",
+            "Text": "Fant me de l'amour\nde Kirie, assassin  dans\nl'abysse. "
+      },
+      {
+            "Id": 19,
+            "TextId": "Servante de Kirie,\njet e dans le puits\nau nom du secret.",
+            "Text": "Servante de Kirie,\njet e dans le puits\nau nom du secret."
+      },
+      {
+            "Id": 20,
+            "TextId": "Fant me flottant\nde l'autre c t  de\nla Porte des enfers.\nIl veut passer de ce c t .",
+            "Text": "Fant me flottant\nde l'autre c t  de\nla Porte des enfers.\nIl veut passer de ce c t ."
+      },
+      {
+            "Id": 21,
+            "TextId": "Il essaya d'espionner\nles rites de la famille\nHimuro et fut victime\nde la Malice.",
+            "Text": "Il essaya d'espionner\nles rites de la famille\nHimuro et fut victime\nde la Malice."
+      },
+      {
+            "Id": 22,
+            "TextId": "Ses cheveux  taient\ntoujours aussi beaux\napr s qu'elle fut\ntouch e par la Malice.\nElle attend un passant.",
+            "Text": "Ses cheveux  taient\ntoujours aussi beaux\napr s qu'elle fut\ntouch e par la Malice.\nElle attend un passant."
+      },
+      {
+            "Id": 23,
+            "TextId": "Elle perdit sa forme\nlorsque la Malice\nl'a frappa.\nMaintenant, elle ne peut\nque crier.",
+            "Text": "Elle perdit sa forme\nlorsque la Malice\nl'a frappa.\nMaintenant, elle ne peut\nque crier."
+      },
+      {
+            "Id": 24,
+            "TextId": "Servante assassin e\npar le chef de\nfamille. Elle sait\nqu'elle est morte mais \nne peut pas d p rir.",
+            "Text": "Servante assassin e\npar le chef de\nfamille. Elle sait\nqu'elle est morte mais \nne peut pas d p rir."
+      },
+      {
+            "Id": 25,
+            "TextId": "Fant me d'un homme\npouss  du haut d'une\nfalaise par la Malice. ",
+            "Text": "Fant me d'un homme\npouss  du haut d'une\nfalaise par la Malice. "
+      },
+      {
+            "Id": 26,
+            "TextId": "Il  tait amoureux de\nKirie.\nAssassin  pour prot ger\nles secrets du rituel.",
+            "Text": "Il  tait amoureux de\nKirie.\nAssassin  pour prot ger\nles secrets du rituel."
+      },
+      {
+            "Id": 27,
+            "TextId": "Il cacha le corps de\nl'amour de Kirie qui \navait  t  assassin .\nIl  tait amoureux de\nKirie.",
+            "Text": "Il cacha le corps de\nl'amour de Kirie qui \navait  t  assassin .\nIl  tait amoureux de\nKirie."
+      },
+      {
+            "Id": 28,
+            "TextId": "Un fant me  gar  de\nl'autre monde scrute\navec envie, mais nul\nne lui donne de\nfriandises.",
+            "Text": "Un fant me  gar  de\nl'autre monde scrute\navec envie, mais nul\nne lui donne de\nfriandises."
+      },
+      {
+            "Id": 29,
+            "TextId": "Les s urs  chapp es\ndu rituel se sont\nnoy es dans la mare.\nLeur chagrin flotte\nencore   la surface.",
+            "Text": "Les s urs  chapp es\ndu rituel se sont\nnoy es dans la mare.\nLeur chagrin flotte\nencore   la surface."
+      },
+      {
+            "Id": 30,
+            "TextId": "Le vieil homme  tait\ndomestique au manoir\nHimuro. Il est mort\nde peur pendant\nqu'il se cachait.",
+            "Text": "Le vieil homme  tait\ndomestique au manoir\nHimuro. Il est mort\nde peur pendant\nqu'il se cachait."
+      },
+      {
+            "Id": 31,
+            "TextId": "L'esprit errant d'un\nhomme, tu  par les\nmiasmes, appara t\ndans la fum e.",
+            "Text": "L'esprit errant d'un\nhomme, tu  par les\nmiasmes, appara t\ndans la fum e."
+      },
+      {
+            "Id": 32,
+            "TextId": "Le fant me d'un \nhomme assassin  pour\navoir essay  \nd' chapper au rituel.\n",
+            "Text": "Le fant me d'un \nhomme assassin  pour\navoir essay  \nd' chapper au rituel.\n"
+      },
+      {
+            "Id": 33,
+            "TextId": "Le fant me d'une\nfemme maudite par\nKirie. Coinc e entre\nce monde et celui\ndes morts.",
+            "Text": "Le fant me d'une\nfemme maudite par\nKirie. Coinc e entre\nce monde et celui\ndes morts."
+      },
+      {
+            "Id": 34,
+            "TextId": "L'homme mort coinc \nsous les d combres\ntend les mains pour\nattirer les vivants\ndans les t n bres.",
+            "Text": "L'homme mort coinc \nsous les d combres\ntend les mains pour\nattirer les vivants\ndans les t n bres."
+      },
+      {
+            "Id": 35,
+            "TextId": "Il a  t  empoisonn \net enterr  dans le\nbois parce qu'il\navait d couvert le\nsecret du rituel. ",
+            "Text": "Il a  t  empoisonn \net enterr  dans le\nbois parce qu'il\navait d couvert le\nsecret du rituel. "
+      },
+      {
+            "Id": 36,
+            "TextId": "Le fant me d'une\nfemme sacrifi e pour\nle rituel. Son  me\nreste li e   son\ncorps mort ici.",
+            "Text": "Le fant me d'une\nfemme sacrifi e pour\nle rituel. Son  me\nreste li e   son\ncorps mort ici."
+      },
+      {
+            "Id": 37,
+            "TextId": "Le fant me cherche\nsa m re, disparue\ndepuis la Calamit ,\ntoujours errant.",
+            "Text": "Le fant me cherche\nsa m re, disparue\ndepuis la Calamit ,\ntoujours errant."
+      },
+      {
+            "Id": 38,
+            "TextId": "Femme enferm e dans\nl'entrep t.\nElle attire les gens\ndans l'entrep t.",
+            "Text": "Femme enferm e dans\nl'entrep t.\nElle attire les gens\ndans l'entrep t."
+      },
+      {
+            "Id": 39,
+            "TextId": "Femme engloutie par\nl'abysse.\nElle attend que quelqu'un\nvienne l'en sortir.",
+            "Text": "Femme engloutie par\nl'abysse.\nElle attend que quelqu'un\nvienne l'en sortir."
+      },
+      {
+            "Id": 40,
+            "TextId": "Enfant enlev  par un\nfant me.\nIl se cache dans la\nSalle des poup es.",
+            "Text": "Enfant enlev  par un\nfant me.\nIl se cache dans la\nSalle des poup es."
+      },
+      {
+            "Id": 41,
+            "TextId": "Fant me mal fique d'un\nhumain, sacrifi  et\nattach  au mur du\nmanoir.",
+            "Text": "Fant me mal fique d'un\nhumain, sacrifi  et\nattach  au mur du\nmanoir."
+      },
+      {
+            "Id": 42,
+            "TextId": "Fant me mal fique\nd'un humain, sacrifi  et\nattach  sur la poutre.",
+            "Text": "Fant me mal fique\nd'un humain, sacrifi  et\nattach  sur la poutre."
+      },
+      {
+            "Id": 43,
+            "TextId": "Une enfant, enlev e\npar un fant me,\nse cache dans\nle sillon du sentier.",
+            "Text": "Une enfant, enlev e\npar un fant me,\nse cache dans\nle sillon du sentier."
+      },
+      {
+            "Id": 44,
+            "TextId": "Femme broy e   mort\npendant la Calamit . ",
+            "Text": "Femme broy e   mort\npendant la Calamit . "
+      },
+      {
+            "Id": 45,
+            "TextId": "BOB 0OB  OB  OB  OB  OB YPB 0PB  PB  PB  PB  PB  PB SQB  QB  QB  QB 'QB  QB  QB -QB ?QB  QB  QB  QB  QB  QB ,QB .QB  QB Mode de jeu ordinaire. Commencez au\nchapitre de votre choix.",
+            "Text": "BOB 0OB  OB  OB  OB  OB YPB 0PB  PB  PB  PB  PB  PB SQB  QB  QB  QB 'QB  QB  QB -QB ?QB  QB  QB  QB  QB  QB ,QB .QB  QB Mode de jeu ordinaire. Commencez au\nchapitre de votre choix."
+      },
+      {
+            "Id": 46,
+            "TextId": "Mode attaque de cibles. Tuez tous\nles fant mes indiqu  comme cibles.",
+            "Text": "Mode attaque de cibles. Tuez tous\nles fant mes indiqu  comme cibles."
+      },
+      {
+            "Id": 47,
+            "TextId": "Configurer les param tres de la\nmanette et de l' cran.",
+            "Text": "Configurer les param tres de la\nmanette et de l' cran."
+      },
+      {
+            "Id": 48,
+            "TextId": " couter la musique du jeu.",
+            "Text": " couter la musique du jeu."
+      },
+      {
+            "Id": 49,
+            "TextId": "Retourner   l' cran titre.",
+            "Text": "Retourner   l' cran titre."
+      },
+      {
+            "Id": 50,
+            "TextId": "S lectionner un chapitre pour d marrer.",
+            "Text": "S lectionner un chapitre pour d marrer."
+      },
+      {
+            "Id": 51,
+            "TextId": "S lectionner le niveau de difficult .",
+            "Text": "S lectionner le niveau de difficult ."
+      },
+      {
+            "Id": 52,
+            "TextId": "Choisir le costume de Miku.",
+            "Text": "Choisir le costume de Miku."
+      },
+      {
+            "Id": 53,
+            "TextId": "D marrer le mode sc nario.",
+            "Text": "D marrer le mode sc nario."
+      },
+      {
+            "Id": 54,
+            "TextId": "Retourner   la s lection de mode.",
+            "Text": "Retourner   la s lection de mode."
+      },
+      {
+            "Id": 55,
+            "TextId": "Choisir le costume de Miku.",
+            "Text": "Choisir le costume de Miku."
+      },
+      {
+            "Id": 56,
+            "TextId": "Augmenter les pouvoirs de l'appareil\nphoto.",
+            "Text": "Augmenter les pouvoirs de l'appareil\nphoto."
+      },
+      {
+            "Id": 57,
+            "TextId": "Vous pouvez voir les photos prises\nen mode combat.",
+            "Text": "Vous pouvez voir les photos prises\nen mode combat."
+      },
+      {
+            "Id": 58,
+            "TextId": "Vous pouvez enregistrer les donn es \nde jeu du mode Combat.",
+            "Text": "Vous pouvez enregistrer les donn es \nde jeu du mode Combat."
+      },
+      {
+            "Id": 59,
+            "TextId": "D marrer le mode combat.",
+            "Text": "D marrer le mode combat."
+      },
+      {
+            "Id": 60,
+            "TextId": "Retourner   la s lection de mode.",
+            "Text": "Retourner   la s lection de mode."
+      },
+      {
+            "Id": 61,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 62,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 63,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 64,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 65,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 66,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 67,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 68,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 69,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 70,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 71,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 72,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 73,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 74,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 75,
+            "TextId": " RB  RB  RB ?RB  RB  RB  RB  RB  RB  RB CSB kSB 0SB  SB  SB ,SB  SB  SB  SB  SB  SB  SB DTB TTB jTB zTB 5TB  TB  TB  TB  TB  TB  TB  TB  TB  TB  TB  TB  TB  TB  TB  TB  TB  TB  TB  TB  TB  TB  TB  TB Junsei Takamine",
+            "Text": " RB  RB  RB ?RB  RB  RB  RB  RB  RB  RB CSB kSB 0SB  SB  SB ,SB  SB  SB  SB  SB  SB  SB DTB TTB jTB zTB 5TB  TB  TB  TB  TB  TB  TB  TB  TB  TB  TB  TB  TB  TB  TB  TB  TB  TB  TB  TB  TB  TB  TB  TB Junsei Takamine"
+      },
+      {
+            "Id": 76,
+            "TextId": "Junsei Takamine",
+            "Text": "Junsei Takamine"
+      },
+      {
+            "Id": 77,
+            "TextId": "Tomoe Hirasaka",
+            "Text": "Tomoe Hirasaka"
+      },
+      {
+            "Id": 78,
+            "TextId": "Tomoe Hirasaka",
+            "Text": "Tomoe Hirasaka"
+      },
+      {
+            "Id": 79,
+            "TextId": "Koji Ogata",
+            "Text": "Koji Ogata"
+      },
+      {
+            "Id": 80,
+            "TextId": "Koji Ogata",
+            "Text": "Koji Ogata"
+      },
+      {
+            "Id": 81,
+            "TextId": "Chef de famille Himuro",
+            "Text": "Chef de famille Himuro"
+      },
+      {
+            "Id": 82,
+            "TextId": "Ma tre de la famille Himuro",
+            "Text": "Ma tre de la famille Himuro"
+      },
+      {
+            "Id": 83,
+            "TextId": "Femme au kimono blanc",
+            "Text": "Femme au kimono blanc"
+      },
+      {
+            "Id": 84,
+            "TextId": "Kirie",
+            "Text": "Kirie"
+      },
+      {
+            "Id": 85,
+            "TextId": "Vierge du sanctuaire des cordes ?",
+            "Text": "Vierge du sanctuaire des cordes ?"
+      },
+      {
+            "Id": 86,
+            "TextId": "Kirie  Vierge des cordes ",
+            "Text": "Kirie  Vierge des cordes "
+      },
+      {
+            "Id": 87,
+            "TextId": "Pr tre du sanctuaire des cordes",
+            "Text": "Pr tre du sanctuaire des cordes"
+      },
+      {
+            "Id": 88,
+            "TextId": "Pr tre du sanctuaire des cordes",
+            "Text": "Pr tre du sanctuaire des cordes"
+      },
+      {
+            "Id": 89,
+            "TextId": "Fille au kimono blanc",
+            "Text": "Fille au kimono blanc"
+      },
+      {
+            "Id": 90,
+            "TextId": "Fille au kimono blanc",
+            "Text": "Fille au kimono blanc"
+      },
+      {
+            "Id": 91,
+            "TextId": "Kirie  Fillette ",
+            "Text": "Kirie  Fillette "
+      },
+      {
+            "Id": 92,
+            "TextId": "Ryozo Munakata",
+            "Text": "Ryozo Munakata"
+      },
+      {
+            "Id": 93,
+            "TextId": "Ryozo Munakata",
+            "Text": "Ryozo Munakata"
+      },
+      {
+            "Id": 94,
+            "TextId": "Yae Munakata",
+            "Text": "Yae Munakata"
+      },
+      {
+            "Id": 95,
+            "TextId": "Yae Munakata",
+            "Text": "Yae Munakata"
+      },
+      {
+            "Id": 96,
+            "TextId": "Mikoto Munakata",
+            "Text": "Mikoto Munakata"
+      },
+      {
+            "Id": 97,
+            "TextId": "Mikoto Munakata",
+            "Text": "Mikoto Munakata"
+      },
+      {
+            "Id": 98,
+            "TextId": "Mikoto Munakata",
+            "Text": "Mikoto Munakata"
+      },
+      {
+            "Id": 99,
+            "TextId": "Mafuyu Hinasaki",
+            "Text": "Mafuyu Hinasaki"
+      },
+      {
+            "Id": 100,
+            "TextId": "Mafuyu Hinasaki",
+            "Text": "Mafuyu Hinasaki"
+      },
+      {
+            "Id": 101,
+            "TextId": "Mafuyu Hinasaki",
+            "Text": "Mafuyu Hinasaki"
+      },
+      {
+            "Id": 102,
+            "TextId": "Miku Hinasaki",
+            "Text": "Miku Hinasaki"
+      },
+      {
+            "Id": 103,
+            "TextId": "Miyuki Hinasaki",
+            "Text": "Miyuki Hinasaki"
+      },
+      {
+            "Id": 104,
+            "TextId": "Miyuki Hinasaki",
+            "Text": "Miyuki Hinasaki"
+      },
+      {
+            "Id": 105,
+            "TextId": "L'amour de Kirie",
+            "Text": "L'amour de Kirie"
+      },
+      {
+            "Id": 106,
+            "TextId": "L'amour de Kirie",
+            "Text": "L'amour de Kirie"
+      },
+      {
+            "Id": 107,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 108,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 109,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 110,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 111,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 112,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 113,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 114,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 115,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 116,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 117,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 118,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 119,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 120,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 121,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 122,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 123,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 124,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 125,
+            "TextId": " UB  UB BVB  VB  VB  WB  WB  XB  XB  YB  YB  ZB  ZB \nZB  aB  aB  aB  bB  bB IcB  cB  cB VdB 'dB OeB  eB  eB  fB  fB  fB 6gB  gB  gB  gB  gB  gB  gB  gB  gB  gB  gB  gB  gB  gB  gB  gB  gB  gB  gB  gB Romancier myst rieux qui\nvisita le manoir des Himuro\net disparut.",
+            "Text": " UB  UB BVB  VB  VB  WB  WB  XB  XB  YB  YB  ZB  ZB \nZB  aB  aB  aB  bB  bB IcB  cB  cB VdB 'dB OeB  eB  eB  fB  fB  fB 6gB  gB  gB  gB  gB  gB  gB  gB  gB  gB  gB  gB  gB  gB  gB  gB  gB  gB  gB  gB Romancier myst rieux qui\nvisita le manoir des Himuro\net disparut."
+      },
+      {
+            "Id": 126,
+            "TextId": "Romancier myst rieux qui\nvisita le manoir des Himuro\net disparut.",
+            "Text": "Romancier myst rieux qui\nvisita le manoir des Himuro\net disparut."
+      },
+      {
+            "Id": 127,
+            "TextId": "Assistante de Takamine.\nElle disparut alors qu'elle\nexplorait le manoir avec\nTakamine et Ogata.",
+            "Text": "Assistante de Takamine.\nElle disparut alors qu'elle\nexplorait le manoir avec\nTakamine et Ogata."
+      },
+      {
+            "Id": 128,
+            "TextId": "Assistante de Takamine.\nElle disparut alors qu'elle\nexplorait le manoir avec\nTakamine et Ogata.",
+            "Text": "Assistante de Takamine.\nElle disparut alors qu'elle\nexplorait le manoir avec\nTakamine et Ogata."
+      },
+      {
+            "Id": 129,
+            "TextId": " diteur accompagnant Takamine\ndans ses recherches.\nTu  par les fant mes du manoir \nalors qu'il l'explorait avec \nTakamine et Hirasaka.",
+            "Text": " diteur accompagnant Takamine\ndans ses recherches.\nTu  par les fant mes du manoir \nalors qu'il l'explorait avec \nTakamine et Hirasaka."
+      },
+      {
+            "Id": 130,
+            "TextId": " diteur accompagnant Takamine\ndans ses recherches.\nTu  par les fant mes du\nmanoir alors qu'il l'explorait \navec Takamine et Hirasaka.",
+            "Text": " diteur accompagnant Takamine\ndans ses recherches.\nTu  par les fant mes du\nmanoir alors qu'il l'explorait \navec Takamine et Hirasaka."
+      },
+      {
+            "Id": 131,
+            "TextId": "Dernier ma tre de la lign e\ndes Himuro, et le dernier   avoir \nex cut  le rituel de strangulation.\nIl tua par la suite tous les membres\nde la famille.",
+            "Text": "Dernier ma tre de la lign e\ndes Himuro, et le dernier   avoir \nex cut  le rituel de strangulation.\nIl tua par la suite tous les membres\nde la famille."
+      },
+      {
+            "Id": 132,
+            "TextId": "Dernier ma tre de la lign e des\nHimuro.\nApr s l' chec du rituel de\nstrangulation, il tua tous les gens \ndu manoir et se donna la mort.",
+            "Text": "Dernier ma tre de la lign e des\nHimuro.\nApr s l' chec du rituel de\nstrangulation, il tua tous les gens \ndu manoir et se donna la mort."
+      },
+      {
+            "Id": 133,
+            "TextId": "Tous ceux qui se sont  gar s dans\nle manoir parlent de cette femme\ndans leur note de mort.\nAurait-elle kidnapp  Mafuyu ?",
+            "Text": "Tous ceux qui se sont  gar s dans\nle manoir parlent de cette femme\ndans leur note de mort.\nAurait-elle kidnapp  Mafuyu ?"
+      },
+      {
+            "Id": 134,
+            "TextId": "Femme myst rieuse du nom \nde Kirie. Elle semble jouer\nun r le dans la disparition\net la mort de nombreuses \npersonnes, dont Mafuyu.",
+            "Text": "Femme myst rieuse du nom \nde Kirie. Elle semble jouer\nun r le dans la disparition\net la mort de nombreuses \npersonnes, dont Mafuyu."
+      },
+      {
+            "Id": 135,
+            "TextId": "Femme myst rieuse du nom\nde Kirie.\nSerait impliqu e dans les rituels\npratiqu s au manoir des Himuro.",
+            "Text": "Femme myst rieuse du nom\nde Kirie.\nSerait impliqu e dans les rituels\npratiqu s au manoir des Himuro."
+      },
+      {
+            "Id": 136,
+            "TextId": "Femme sacrifi e lors d'un rituel\nex cut  dans ce manoir.\nElle devint un fant me mal fique\nlorsque le rituel  choua.",
+            "Text": "Femme sacrifi e lors d'un rituel\nex cut  dans ce manoir.\nElle devint un fant me mal fique\nlorsque le rituel  choua."
+      },
+      {
+            "Id": 137,
+            "TextId": "Pr tre impliqu  dans les rituels\npratiqu s dans ce manoir.",
+            "Text": "Pr tre impliqu  dans les rituels\npratiqu s dans ce manoir."
+      },
+      {
+            "Id": 138,
+            "TextId": "Pr tre impliqu  dans les rituels\npratiqu s dans ce manoir. \nAssassin  par le ma tre.",
+            "Text": "Pr tre impliqu  dans les rituels\npratiqu s dans ce manoir. \nAssassin  par le ma tre."
+      },
+      {
+            "Id": 139,
+            "TextId": "Fille myst rieuse qui appara t\ndans le manoir.",
+            "Text": "Fille myst rieuse qui appara t\ndans le manoir."
+      },
+      {
+            "Id": 140,
+            "TextId": "Fille myst rieuse qui appara t\ndans le manoir.\nElle aide Miku partout o \nelle passe.",
+            "Text": "Fille myst rieuse qui appara t\ndans le manoir.\nElle aide Miku partout o \nelle passe."
+      },
+      {
+            "Id": 141,
+            "TextId": "Kirie, jeune fille, la Vierge\ndu sanctuaire des cordes.\nElle d sire mettre fin   son\nc t  mal fique ainsi manifest .",
+            "Text": "Kirie, jeune fille, la Vierge\ndu sanctuaire des cordes.\nElle d sire mettre fin   son\nc t  mal fique ainsi manifest ."
+      },
+      {
+            "Id": 142,
+            "TextId": "Folkloriste  tudiant les rituels\nde la famille Himuro.\nIl v cut dans ce manoir avec\ntoute sa famille.",
+            "Text": "Folkloriste  tudiant les rituels\nde la famille Himuro.\nIl v cut dans ce manoir avec\ntoute sa famille."
+      },
+      {
+            "Id": 143,
+            "TextId": "Folkloriste  tudiant les rituels\nde la famille Himuro.\nTu  par les fant mes du manoir.",
+            "Text": "Folkloriste  tudiant les rituels\nde la famille Himuro.\nTu  par les fant mes du manoir."
+      },
+      {
+            "Id": 144,
+            "TextId": "Femme de Ryozo Munakata.\nLa maladie de Yae incita Ryozo \n  installer sa famille au manoir.",
+            "Text": "Femme de Ryozo Munakata.\nLa maladie de Yae incita Ryozo \n  installer sa famille au manoir."
+      },
+      {
+            "Id": 145,
+            "TextId": "Femme de Ryozo Munakata.\nElle succomba au pouvoir de\nl'appareil de Mikoto et se donna\nla mort.",
+            "Text": "Femme de Ryozo Munakata.\nElle succomba au pouvoir de\nl'appareil de Mikoto et se donna\nla mort."
+      },
+      {
+            "Id": 146,
+            "TextId": "Fille de Ryozo et Yae Munakata.\nElle s'installa au manoir\nHimuro avec ses parents.",
+            "Text": "Fille de Ryozo et Yae Munakata.\nElle s'installa au manoir\nHimuro avec ses parents."
+      },
+      {
+            "Id": 147,
+            "TextId": "Fille de Ryozo et Yae Munakata.\nElle s'installa au manoir\nHimuro avec ses parents mais\nfut enlev e par des fant mes.",
+            "Text": "Fille de Ryozo et Yae Munakata.\nElle s'installa au manoir\nHimuro avec ses parents mais\nfut enlev e par des fant mes."
+      },
+      {
+            "Id": 148,
+            "TextId": "Fille de Yae.\nRetrouv e apr s avoir  t \nenlev e par des fant mes mais\nses parents avaient disparu.\nAdopt e par la famille Hinasaki.",
+            "Text": "Fille de Yae.\nRetrouv e apr s avoir  t \nenlev e par des fant mes mais\nses parents avaient disparu.\nAdopt e par la famille Hinasaki."
+      },
+      {
+            "Id": 149,
+            "TextId": "Fr re de Miku.\nIl partit   la recherche de\nTakamine lorsqu'il apprit qu'il\navait disparu.",
+            "Text": "Fr re de Miku.\nIl partit   la recherche de\nTakamine lorsqu'il apprit qu'il\navait disparu."
+      },
+      {
+            "Id": 150,
+            "TextId": "Fr re de Miku.\nIl se rendit au manoir   la\nrecherche de Takamine. Il a \npeut- tre  t  captur  par le \nfant me de femme au kimono blanc.",
+            "Text": "Fr re de Miku.\nIl se rendit au manoir   la\nrecherche de Takamine. Il a \npeut- tre  t  captur  par le \nfant me de femme au kimono blanc."
+      },
+      {
+            "Id": 151,
+            "TextId": "Fr re de Miku.\nIl a appris la v rit  cach e\nderri re la mal diction du\nmanoir Himuro et tente de\nrompre la mal diction.",
+            "Text": "Fr re de Miku.\nIl a appris la v rit  cach e\nderri re la mal diction du\nmanoir Himuro et tente de\nrompre la mal diction."
+      },
+      {
+            "Id": 152,
+            "TextId": "Elle se rendit au manoir Himuro\n  la recherche de Mafuyu.",
+            "Text": "Elle se rendit au manoir Himuro\n  la recherche de Mafuyu."
+      },
+      {
+            "Id": 153,
+            "TextId": "M re de Miku.\nElle poss dait des pouvoirs\nspirituels et donna l'appareil\n  Miku.",
+            "Text": "M re de Miku.\nElle poss dait des pouvoirs\nspirituels et donna l'appareil\n  Miku."
+      },
+      {
+            "Id": 154,
+            "TextId": "M re de Miku. Fille de Mikoto\nMunakata. \nL'appareil lui fut transmis par\nMikoto.",
+            "Text": "M re de Miku. Fille de Mikoto\nMunakata. \nL'appareil lui fut transmis par\nMikoto."
+      },
+      {
+            "Id": 155,
+            "TextId": "Un invit  du manoir Himuro.\nIl fit la connaissance de\nKirie.",
+            "Text": "Un invit  du manoir Himuro.\nIl fit la connaissance de\nKirie."
+      },
+      {
+            "Id": 156,
+            "TextId": "Un invit  du manoir Himuro.\nIl fit la connaissance\nde Kirie mais fut assassin \npar le chef de famille.",
+            "Text": "Un invit  du manoir Himuro.\nIl fit la connaissance\nde Kirie mais fut assassin \npar le chef de famille."
+      },
+      {
+            "Id": 157,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 158,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 159,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 160,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 161,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 162,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 163,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 164,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 165,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 166,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 167,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 168,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 169,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 170,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 171,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 172,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 173,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 174,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 175,
+            "TextId": "ahB uhB  hB  hB  hB  hB  hB  hB Diminuer le volume.",
+            "Text": "ahB uhB  hB  hB  hB  hB  hB  hB Diminuer le volume."
+      },
+      {
+            "Id": 176,
+            "TextId": "S lectionner piste pr c dente.",
+            "Text": "S lectionner piste pr c dente."
+      },
+      {
+            "Id": 177,
+            "TextId": "Jouer piste s lectionn e.",
+            "Text": "Jouer piste s lectionn e."
+      },
+      {
+            "Id": 178,
+            "TextId": "Arr ter la lecture.",
+            "Text": "Arr ter la lecture."
+      },
+      {
+            "Id": 179,
+            "TextId": "S lectionner piste suivante.",
+            "Text": "S lectionner piste suivante."
+      },
+      {
+            "Id": 180,
+            "TextId": "Augmenter le volume.",
+            "Text": "Augmenter le volume."
+      },
+      {
+            "Id": 181,
+            "TextId": "S lection impossible pendant la lecture.",
+            "Text": "S lection impossible pendant la lecture."
+      },
+      {
+            "Id": 182,
+            "TextId": "En mode lecture.",
+            "Text": "En mode lecture."
+      },
+      {
+            "Id": 183,
+            "TextId": "jmB xmB  mB  mB  mB  mB KnB nnB 4nB  nB  nB  nB  nB EoB  oB  oB  oB  oB  oB ",
+            "Text": "jmB xmB  mB  mB  mB  mB KnB nnB 4nB  nB  nB  nB  nB EoB  oB  oB  oB  oB  oB "
+      },
+      {
+            "Id": 184,
+            "TextId": "oB FpB 5pB  pB  pB  pB  pB  pB AqB iqB  qB  qB  qB  qB  qB  qB  qB  qB VrB 1rB  rB  rB  rB  rB  rB  rB  rB  rB  rB  rB  rB CsB NsB gsB zsB  sB  sB  sB  sB  sB  sB DtB ztB  tB 6tB  tB  tB  tB  tB  tB  tB  tB  tB  tB  tB LuB uuB  uB  uB  uB  uB  uB  uB  uB ",
+            "Text": "oB FpB 5pB  pB  pB  pB  pB  pB AqB iqB  qB  qB  qB  qB  qB  qB  qB  qB VrB 1rB  rB  rB  rB  rB  rB  rB  rB  rB  rB  rB  rB CsB NsB gsB zsB  sB  sB  sB  sB  sB  sB DtB ztB  tB 6tB  tB  tB  tB  tB  tB  tB  tB  tB  tB  tB LuB uuB  uB  uB  uB  uB  uB  uB  uB "
+      },
+      {
+            "Id": 185,
+            "TextId": "uB IvB XvB hvB 0vB  vB  vB  vB  vB  vB  vB  vB  vB  vB  vB \nvB iwB  wB  wB  wB  wB  wB  wB  wB fxB vxB  xB 9xB  xB  xB  xB  xB  xB  xB  yB  yB  yB  yB  zB  zB D B S B r B   B   B   B   B   B   B   B   B K B k B q B   B - B   B   B   B Y B l B u B   B ' B   B   B   B   B F B   B   B   B   B c B v B   B   B   B   B   B   B   B   B   B D B   B   B   B y B 9 B   B B B   B   B   B   B G0B n0B  0B  0B  0B d1B  1B  1B  1B  1B q2B  2B '2B  2B  2B h3B 53B  3B  3B N4B  4B  4B  4B  4B  4B 15B  5B  5B  5B  5B R6B  6B  6B  6B  6B  6B J7B 27B  7B  7B  7B  7B  7B  7B I8B u8B  8B 58B  8B  8B  8B  8B  8B  8B a9B  9B  9B  9B  9B  9B c B   B   B   B   B   B W B t B   B   B   B U B   B   B   B   B v B   B   B   B   B P B   B   B   B   B Y B   B   B   B   B l B Dummy Message",
+            "Text": "uB IvB XvB hvB 0vB  vB  vB  vB  vB  vB  vB  vB  vB  vB  vB \nvB iwB  wB  wB  wB  wB  wB  wB  wB fxB vxB  xB 9xB  xB  xB  xB  xB  xB  xB  yB  yB  yB  yB  zB  zB D B S B r B   B   B   B   B   B   B   B   B K B k B q B   B - B   B   B   B Y B l B u B   B ' B   B   B   B   B F B   B   B   B   B c B v B   B   B   B   B   B   B   B   B   B D B   B   B   B y B 9 B   B B B   B   B   B   B G0B n0B  0B  0B  0B d1B  1B  1B  1B  1B q2B  2B '2B  2B  2B h3B 53B  3B  3B N4B  4B  4B  4B  4B  4B 15B  5B  5B  5B  5B R6B  6B  6B  6B  6B  6B J7B 27B  7B  7B  7B  7B  7B  7B I8B u8B  8B 58B  8B  8B  8B  8B  8B  8B a9B  9B  9B  9B  9B  9B c B   B   B   B   B   B W B t B   B   B   B U B   B   B   B   B v B   B   B   B   B P B   B   B   B   B Y B   B   B   B   B l B Dummy Message"
+      },
+      {
+            "Id": 186,
+            "TextId": "Je me demande depuis combien\nde temps mon fr re et moi",
+            "Text": "Je me demande depuis combien\nde temps mon fr re et moi"
+      },
+      {
+            "Id": 187,
+            "TextId": "distinguons des choses que \nd'autres ne peuvent voir.",
+            "Text": "distinguons des choses que \nd'autres ne peuvent voir."
+      },
+      {
+            "Id": 188,
+            "TextId": "Mon grand fr re...",
+            "Text": "Mon grand fr re..."
+      },
+      {
+            "Id": 189,
+            "TextId": "il  tait si gentil et si doux.",
+            "Text": "il  tait si gentil et si doux."
+      },
+      {
+            "Id": 190,
+            "TextId": "Il  tait le seul   qui je \npouvais parler de ces visions.",
+            "Text": "Il  tait le seul   qui je \npouvais parler de ces visions."
+      },
+      {
+            "Id": 191,
+            "TextId": "Apr s la mort de notre m re,",
+            "Text": "Apr s la mort de notre m re,"
+      },
+      {
+            "Id": 192,
+            "TextId": "il  tait ma seule famille.",
+            "Text": "il  tait ma seule famille."
+      },
+      {
+            "Id": 193,
+            "TextId": "Alors, voici le fameux manoir\ndes Himuro...",
+            "Text": "Alors, voici le fameux manoir\ndes Himuro..."
+      },
+      {
+            "Id": 194,
+            "TextId": "Mon fr re recherchait quelqu'un.",
+            "Text": "Mon fr re recherchait quelqu'un."
+      },
+      {
+            "Id": 195,
+            "TextId": "Le c l bre romancier\nJunsei Takamine,",
+            "Text": "Le c l bre romancier\nJunsei Takamine,"
+      },
+      {
+            "Id": 196,
+            "TextId": "un homme   qui mon fr re\n tait redevable,",
+            "Text": "un homme   qui mon fr re\n tait redevable,"
+      },
+      {
+            "Id": 197,
+            "TextId": "disparut au cours de ses recherches.",
+            "Text": "disparut au cours de ses recherches."
+      },
+      {
+            "Id": 198,
+            "TextId": "Lorsqu'il me dit qu'il  tait\nsur une piste pour retrouver M. Takamine,",
+            "Text": "Lorsqu'il me dit qu'il  tait\nsur une piste pour retrouver M. Takamine,"
+      },
+      {
+            "Id": 199,
+            "TextId": "j'eus le mauvais ",
+            "Text": "j'eus le mauvais "
+      },
+      {
+            "Id": 200,
+            "TextId": "pressentiment qu'il allait partir loin...",
+            "Text": "pressentiment qu'il allait partir loin..."
+      },
+      {
+            "Id": 201,
+            "TextId": " \n24 septembre 1986",
+            "Text": " \n24 septembre 1986"
+      },
+      {
+            "Id": 202,
+            "TextId": "Ce bloc-notes...\nC'est celui de M. Takamine.",
+            "Text": "Ce bloc-notes...\nC'est celui de M. Takamine."
+      },
+      {
+            "Id": 203,
+            "TextId": "C'est bien celui de M. Takamine...\nIl  tait donc ici.",
+            "Text": "C'est bien celui de M. Takamine...\nIl  tait donc ici."
+      },
+      {
+            "Id": 204,
+            "TextId": "Miku  ",
+            "Text": "Miku  "
+      },
+      {
+            "Id": 205,
+            "TextId": " a fait 2 semaines que je n'ai\npas de nouvelles de mon fr re.",
+            "Text": " a fait 2 semaines que je n'ai\npas de nouvelles de mon fr re."
+      },
+      {
+            "Id": 206,
+            "TextId": "Mais il m'a laiss  un mot qui\nm'a conduite jusqu'ici.",
+            "Text": "Mais il m'a laiss  un mot qui\nm'a conduite jusqu'ici."
+      },
+      {
+            "Id": 207,
+            "TextId": "C'est comme si quelque chose\nm'avait attir e ici...",
+            "Text": "C'est comme si quelque chose\nm'avait attir e ici..."
+      },
+      {
+            "Id": 208,
+            "TextId": "Mafuyu...",
+            "Text": "Mafuyu..."
+      },
+      {
+            "Id": 209,
+            "TextId": "Mon fr re  tait ici...",
+            "Text": "Mon fr re  tait ici..."
+      },
+      {
+            "Id": 210,
+            "TextId": "Qu'est-ce que c'est que cet endroit...?",
+            "Text": "Qu'est-ce que c'est que cet endroit...?"
+      },
+      {
+            "Id": 211,
+            "TextId": "  l'aide.",
+            "Text": "  l'aide."
+      },
+      {
+            "Id": 212,
+            "TextId": "Est-ce que quelqu'un vient de...?",
+            "Text": "Est-ce que quelqu'un vient de...?"
+      },
+      {
+            "Id": 213,
+            "TextId": "Je me demande si nous trouverons\nquoi que ce soit ici ?",
+            "Text": "Je me demande si nous trouverons\nquoi que ce soit ici ?"
+      },
+      {
+            "Id": 214,
+            "TextId": "...Il fait froid...",
+            "Text": "...Il fait froid..."
+      },
+      {
+            "Id": 215,
+            "TextId": "Quel trou...",
+            "Text": "Quel trou..."
+      },
+      {
+            "Id": 216,
+            "TextId": "...Est-il arriv  quelque chose   mon fr re ?",
+            "Text": "...Est-il arriv  quelque chose   mon fr re ?"
+      },
+      {
+            "Id": 217,
+            "TextId": "Exactement comme sur la photo...",
+            "Text": "Exactement comme sur la photo..."
+      },
+      {
+            "Id": 218,
+            "TextId": "Qu'est-ce que c' tait ?",
+            "Text": "Qu'est-ce que c' tait ?"
+      },
+      {
+            "Id": 219,
+            "TextId": "H .",
+            "Text": "H ."
+      },
+      {
+            "Id": 220,
+            "TextId": "   l'aiiiiide...",
+            "Text": "   l'aiiiiide..."
+      },
+      {
+            "Id": 221,
+            "TextId": "Devrais-je prendre une photo ?",
+            "Text": "Devrais-je prendre une photo ?"
+      },
+      {
+            "Id": 222,
+            "TextId": "C'est la personne que je viens de voir...",
+            "Text": "C'est la personne que je viens de voir..."
+      },
+      {
+            "Id": 223,
+            "TextId": "Les cordes.",
+            "Text": "Les cordes."
+      },
+      {
+            "Id": 224,
+            "TextId": "Mafuyu  ",
+            "Text": "Mafuyu  "
+      },
+      {
+            "Id": 225,
+            "TextId": "Attends...",
+            "Text": "Attends..."
+      },
+      {
+            "Id": 226,
+            "TextId": "  l'aide  ",
+            "Text": "  l'aide  "
+      },
+      {
+            "Id": 227,
+            "TextId": "M. Takamine...",
+            "Text": "M. Takamine..."
+      },
+      {
+            "Id": 228,
+            "TextId": "Kirie...",
+            "Text": "Kirie..."
+      },
+      {
+            "Id": 229,
+            "TextId": "Dis-lui...Dis-lui...",
+            "Text": "Dis-lui...Dis-lui..."
+      },
+      {
+            "Id": 230,
+            "TextId": "Dis-lui quoi ? ",
+            "Text": "Dis-lui quoi ? "
+      },
+      {
+            "Id": 231,
+            "TextId": "Quoi ?",
+            "Text": "Quoi ?"
+      },
+      {
+            "Id": 232,
+            "TextId": "Est-ce le Miroir sacr  ?",
+            "Text": "Est-ce le Miroir sacr  ?"
+      },
+      {
+            "Id": 233,
+            "TextId": "En voil  un morceau...",
+            "Text": "En voil  un morceau..."
+      },
+      {
+            "Id": 234,
+            "TextId": "Je te ferai sentir ma souffrance...",
+            "Text": "Je te ferai sentir ma souffrance..."
+      },
+      {
+            "Id": 235,
+            "TextId": "Un d mon  ",
+            "Text": "Un d mon  "
+      },
+      {
+            "Id": 236,
+            "TextId": "Un nouveau d mon  ",
+            "Text": "Un nouveau d mon  "
+      },
+      {
+            "Id": 237,
+            "TextId": "Vite   Trouve-moi.",
+            "Text": "Vite   Trouve-moi."
+      },
+      {
+            "Id": 238,
+            "TextId": "Regarde autour de toi...",
+            "Text": "Regarde autour de toi..."
+      },
+      {
+            "Id": 239,
+            "TextId": "La corde  ",
+            "Text": "La corde  "
+      },
+      {
+            "Id": 240,
+            "TextId": "Pas question.. ",
+            "Text": "Pas question.. "
+      },
+      {
+            "Id": 241,
+            "TextId": "Ce miroir  ",
+            "Text": "Ce miroir  "
+      },
+      {
+            "Id": 242,
+            "TextId": "Rends-le-moi  ",
+            "Text": "Rends-le-moi  "
+      },
+      {
+            "Id": 243,
+            "TextId": "Je suis venu faire des recherches\nsur le rituel secret de la famille Himuro car...",
+            "Text": "Je suis venu faire des recherches\nsur le rituel secret de la famille Himuro car..."
+      },
+      {
+            "Id": 244,
+            "TextId": "Ce Masque aveuglant est la cl  de la porte...",
+            "Text": "Ce Masque aveuglant est la cl  de la porte..."
+      },
+      {
+            "Id": 245,
+            "TextId": "L'autel doit se trouver derri re cette porte...",
+            "Text": "L'autel doit se trouver derri re cette porte..."
+      },
+      {
+            "Id": 246,
+            "TextId": "Maman...",
+            "Text": "Maman..."
+      },
+      {
+            "Id": 247,
+            "TextId": "Maman  ",
+            "Text": "Maman  "
+      },
+      {
+            "Id": 248,
+            "TextId": "Quoi ? Que s'est-il pass  ?",
+            "Text": "Quoi ? Que s'est-il pass  ?"
+      },
+      {
+            "Id": 249,
+            "TextId": "Yae...",
+            "Text": "Yae..."
+      },
+      {
+            "Id": 250,
+            "TextId": "Comment est-ce possible ?",
+            "Text": "Comment est-ce possible ?"
+      },
+      {
+            "Id": 251,
+            "TextId": "Maman ?",
+            "Text": "Maman ?"
+      },
+      {
+            "Id": 252,
+            "TextId": "Qu'est-ce que c'est ?",
+            "Text": "Qu'est-ce que c'est ?"
+      },
+      {
+            "Id": 253,
+            "TextId": "Mes yeux...",
+            "Text": "Mes yeux..."
+      },
+      {
+            "Id": 254,
+            "TextId": "Mes yeux...",
+            "Text": "Mes yeux..."
+      },
+      {
+            "Id": 255,
+            "TextId": "Qu'est-ce que c'est ?",
+            "Text": "Qu'est-ce que c'est ?"
+      },
+      {
+            "Id": 256,
+            "TextId": "Il fait si sombre...",
+            "Text": "Il fait si sombre..."
+      },
+      {
+            "Id": 257,
+            "TextId": "C'est Mafuyu  ",
+            "Text": "C'est Mafuyu  "
+      },
+      {
+            "Id": 258,
+            "TextId": "La porte s'ouvre enfin...",
+            "Text": "La porte s'ouvre enfin..."
+      },
+      {
+            "Id": 259,
+            "TextId": "C'est un autre morceau\ndu miroir  ",
+            "Text": "C'est un autre morceau\ndu miroir  "
+      },
+      {
+            "Id": 260,
+            "TextId": "Kirie  ",
+            "Text": "Kirie  "
+      },
+      {
+            "Id": 261,
+            "TextId": "Il fait si sombre...\nIl fait si sombre...",
+            "Text": "Il fait si sombre...\nIl fait si sombre..."
+      },
+      {
+            "Id": 262,
+            "TextId": "Ces photos...",
+            "Text": "Ces photos..."
+      },
+      {
+            "Id": 263,
+            "TextId": "Ce sont exactement les m mes\nque celles prises par maman...",
+            "Text": "Ce sont exactement les m mes\nque celles prises par maman..."
+      },
+      {
+            "Id": 264,
+            "TextId": "Ont-elle  t  prises avec cet appareil ?",
+            "Text": "Ont-elle  t  prises avec cet appareil ?"
+      },
+      {
+            "Id": 265,
+            "TextId": "Mafuyu...",
+            "Text": "Mafuyu..."
+      },
+      {
+            "Id": 266,
+            "TextId": "Mafuyu  ",
+            "Text": "Mafuyu  "
+      },
+      {
+            "Id": 267,
+            "TextId": "Tu ne me reconnais pas ?",
+            "Text": "Tu ne me reconnais pas ?"
+      },
+      {
+            "Id": 268,
+            "TextId": "En bas...",
+            "Text": "En bas..."
+      },
+      {
+            "Id": 269,
+            "TextId": "Non... Kirie  ",
+            "Text": "Non... Kirie  "
+      },
+      {
+            "Id": 270,
+            "TextId": "Par ici  ",
+            "Text": "Par ici  "
+      },
+      {
+            "Id": 271,
+            "TextId": "Nous devons nous d p cher...",
+            "Text": "Nous devons nous d p cher..."
+      },
+      {
+            "Id": 272,
+            "TextId": "Je t'en prie... arr te-les...",
+            "Text": "Je t'en prie... arr te-les..."
+      },
+      {
+            "Id": 273,
+            "TextId": "Arr te-moi.",
+            "Text": "Arr te-moi."
+      },
+      {
+            "Id": 274,
+            "TextId": "Qui es-tu ?",
+            "Text": "Qui es-tu ?"
+      },
+      {
+            "Id": 275,
+            "TextId": "Je... Je ne veux pas mourir.",
+            "Text": "Je... Je ne veux pas mourir."
+      },
+      {
+            "Id": 276,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 277,
+            "TextId": "Je veux le voir une derni re fois...",
+            "Text": "Je veux le voir une derni re fois..."
+      },
+      {
+            "Id": 278,
+            "TextId": "Arr tez  ",
+            "Text": "Arr tez  "
+      },
+      {
+            "Id": 279,
+            "TextId": "Non  ",
+            "Text": "Non  "
+      },
+      {
+            "Id": 280,
+            "TextId": "Mafuyu... ",
+            "Text": "Mafuyu... "
+      },
+      {
+            "Id": 281,
+            "TextId": "M-Miku...",
+            "Text": "M-Miku..."
+      },
+      {
+            "Id": 282,
+            "TextId": "Nous...serons toujours ensemble.",
+            "Text": "Nous...serons toujours ensemble."
+      },
+      {
+            "Id": 283,
+            "TextId": "C'est le dernier morceau du miroir  ",
+            "Text": "C'est le dernier morceau du miroir  "
+      },
+      {
+            "Id": 284,
+            "TextId": "Mafuyu   Dieu soit lou   ",
+            "Text": "Mafuyu   Dieu soit lou   "
+      },
+      {
+            "Id": 285,
+            "TextId": "N'oublie pas ton devoir  ",
+            "Text": "N'oublie pas ton devoir  "
+      },
+      {
+            "Id": 286,
+            "TextId": "Mon devoir est de garder\ncette porte ferm e...",
+            "Text": "Mon devoir est de garder\ncette porte ferm e..."
+      },
+      {
+            "Id": 287,
+            "TextId": "Laissez-moi m'occuper de cette porte...",
+            "Text": "Laissez-moi m'occuper de cette porte..."
+      },
+      {
+            "Id": 288,
+            "TextId": "Filez vite  ",
+            "Text": "Filez vite  "
+      },
+      {
+            "Id": 289,
+            "TextId": "Et toi ?",
+            "Text": "Et toi ?"
+      },
+      {
+            "Id": 290,
+            "TextId": "Je dois arr ter la Calamit \nou tout recommencera.",
+            "Text": "Je dois arr ter la Calamit \nou tout recommencera."
+      },
+      {
+            "Id": 291,
+            "TextId": "Ne vous inqui tez pas pour moi.\nPartez...",
+            "Text": "Ne vous inqui tez pas pour moi.\nPartez..."
+      },
+      {
+            "Id": 292,
+            "TextId": "Mafuyu, viens  ",
+            "Text": "Mafuyu, viens  "
+      },
+      {
+            "Id": 293,
+            "TextId": "Miku,",
+            "Text": "Miku,"
+      },
+      {
+            "Id": 294,
+            "TextId": "je dois rester...",
+            "Text": "je dois rester..."
+      },
+      {
+            "Id": 295,
+            "TextId": "Qu'est-ce que tu racontes ?",
+            "Text": "Qu'est-ce que tu racontes ?"
+      },
+      {
+            "Id": 296,
+            "TextId": "Je pense que je peux l'aider.",
+            "Text": "Je pense que je peux l'aider."
+      },
+      {
+            "Id": 297,
+            "TextId": "Miku, vas-y sans moi.",
+            "Text": "Miku, vas-y sans moi."
+      },
+      {
+            "Id": 298,
+            "TextId": "Miku...",
+            "Text": "Miku..."
+      },
+      {
+            "Id": 299,
+            "TextId": "Lorsque Kirie me guidait,\nje l'entendais crier...",
+            "Text": "Lorsque Kirie me guidait,\nje l'entendais crier..."
+      },
+      {
+            "Id": 300,
+            "TextId": "Crier   l'aide.",
+            "Text": "Crier   l'aide."
+      },
+      {
+            "Id": 301,
+            "TextId": "En tant que Vierge du sanctuaire des cordes,\nelle  tait destin e   sceller la porte.",
+            "Text": "En tant que Vierge du sanctuaire des cordes,\nelle  tait destin e   sceller la porte."
+      },
+      {
+            "Id": 302,
+            "TextId": "Mais elle voulait aussi  tre\navec celui qu'elle aimait.",
+            "Text": "Mais elle voulait aussi  tre\navec celui qu'elle aimait."
+      },
+      {
+            "Id": 303,
+            "TextId": "Cela lui  tait impossible et elle  tait\nan antie par ces sentiments,",
+            "Text": "Cela lui  tait impossible et elle  tait\nan antie par ces sentiments,"
+      },
+      {
+            "Id": 304,
+            "TextId": "ce qui provoqua la Calamit .",
+            "Text": "ce qui provoqua la Calamit ."
+      },
+      {
+            "Id": 305,
+            "TextId": "Son esprit fut touch  par la Malice et elle\ndevint une cr ature dont le d sir  tait\nde faire souffrir autant qu'elle avait souffert.",
+            "Text": "Son esprit fut touch  par la Malice et elle\ndevint une cr ature dont le d sir  tait\nde faire souffrir autant qu'elle avait souffert."
+      },
+      {
+            "Id": 306,
+            "TextId": "D sormais lib r e de la Malice,\nelle s'appr te   remplir son devoir\nde Vierge du sanctuaire des cordes.",
+            "Text": "D sormais lib r e de la Malice,\nelle s'appr te   remplir son devoir\nde Vierge du sanctuaire des cordes."
+      },
+      {
+            "Id": 307,
+            "TextId": "Son  me doit rester ici,\ngardant cette porte scell e\npour l' ternit .",
+            "Text": "Son  me doit rester ici,\ngardant cette porte scell e\npour l' ternit ."
+      },
+      {
+            "Id": 308,
+            "TextId": "Toute seule...",
+            "Text": "Toute seule..."
+      },
+      {
+            "Id": 309,
+            "TextId": "Une douleur  ternelle...",
+            "Text": "Une douleur  ternelle..."
+      },
+      {
+            "Id": 310,
+            "TextId": "Tant qu'elle ne souffre pas...",
+            "Text": "Tant qu'elle ne souffre pas..."
+      },
+      {
+            "Id": 311,
+            "TextId": "Tant qu'elle n'est pas\nd sesp r e...",
+            "Text": "Tant qu'elle n'est pas\nd sesp r e..."
+      },
+      {
+            "Id": 312,
+            "TextId": "Je souhaite rester\n  ses c t s.",
+            "Text": "Je souhaite rester\n  ses c t s."
+      },
+      {
+            "Id": 313,
+            "TextId": "...Miku.",
+            "Text": "...Miku."
+      },
+      {
+            "Id": 314,
+            "TextId": "Mafuyu  ",
+            "Text": "Mafuyu  "
+      },
+      {
+            "Id": 315,
+            "TextId": "Regarde  ",
+            "Text": "Regarde  "
+      },
+      {
+            "Id": 316,
+            "TextId": "Leurs  mes retournent\nd'o  elles viennent...",
+            "Text": "Leurs  mes retournent\nd'o  elles viennent..."
+      },
+      {
+            "Id": 317,
+            "TextId": "Miku...",
+            "Text": "Miku..."
+      },
+      {
+            "Id": 318,
+            "TextId": "Je comprends d sormais\nma pr sence ici...",
+            "Text": "Je comprends d sormais\nma pr sence ici..."
+      },
+      {
+            "Id": 319,
+            "TextId": "Et j'accepte ma destin e.",
+            "Text": "Et j'accepte ma destin e."
+      },
+      {
+            "Id": 320,
+            "TextId": "Miku,",
+            "Text": "Miku,"
+      },
+      {
+            "Id": 321,
+            "TextId": "merci pour tout.",
+            "Text": "merci pour tout."
+      },
+      {
+            "Id": 322,
+            "TextId": "Depuis ce jour, je ne distingue\nplus les choses que d'autres\nne peuvent pas voir.",
+            "Text": "Depuis ce jour, je ne distingue\nplus les choses que d'autres\nne peuvent pas voir."
+      },
+      {
+            "Id": 323,
+            "TextId": "Mafuyu   Dieu soit lou   ",
+            "Text": "Mafuyu   Dieu soit lou   "
+      },
+      {
+            "Id": 324,
+            "TextId": "N'oublie pas ton devoir  ",
+            "Text": "N'oublie pas ton devoir  "
+      },
+      {
+            "Id": 325,
+            "TextId": "Mon devoir est de garder\ncette porte ferm e...",
+            "Text": "Mon devoir est de garder\ncette porte ferm e..."
+      },
+      {
+            "Id": 326,
+            "TextId": "Laissez-moi m'occuper\nde cette porte...",
+            "Text": "Laissez-moi m'occuper\nde cette porte..."
+      },
+      {
+            "Id": 327,
+            "TextId": "Filez vite  ",
+            "Text": "Filez vite  "
+      },
+      {
+            "Id": 328,
+            "TextId": "Et toi ?",
+            "Text": "Et toi ?"
+      },
+      {
+            "Id": 329,
+            "TextId": "Je dois arr ter la Calamit \nou tout recommencera.",
+            "Text": "Je dois arr ter la Calamit \nou tout recommencera."
+      },
+      {
+            "Id": 330,
+            "TextId": "Ne vous inqui tez pas pour moi.\nPartez...",
+            "Text": "Ne vous inqui tez pas pour moi.\nPartez..."
+      },
+      {
+            "Id": 331,
+            "TextId": "Mafuyu, viens  ",
+            "Text": "Mafuyu, viens  "
+      },
+      {
+            "Id": 332,
+            "TextId": "Regarde...",
+            "Text": "Regarde..."
+      },
+      {
+            "Id": 333,
+            "TextId": "Leurs  mes retournent\nd'o  elles viennent...",
+            "Text": "Leurs  mes retournent\nd'o  elles viennent..."
+      },
+      {
+            "Id": 334,
+            "TextId": "Kirie...",
+            "Text": "Kirie..."
+      },
+      {
+            "Id": 335,
+            "TextId": "elle s'est toujours\nbattue pour survivre.",
+            "Text": "elle s'est toujours\nbattue pour survivre."
+      },
+      {
+            "Id": 336,
+            "TextId": "Son  me doit rester l , gardant cette\nporte scell e pour l' ternit .",
+            "Text": "Son  me doit rester l , gardant cette\nporte scell e pour l' ternit ."
+      },
+      {
+            "Id": 337,
+            "TextId": "Elle a d  tout sacrifier...",
+            "Text": "Elle a d  tout sacrifier..."
+      },
+      {
+            "Id": 338,
+            "TextId": "Ces  mes reposent en paix mais\nson  me   elle souffrira   jamais...",
+            "Text": "Ces  mes reposent en paix mais\nson  me   elle souffrira   jamais..."
+      },
+      {
+            "Id": 339,
+            "TextId": "jusqu'  la fin des temps.",
+            "Text": "jusqu'  la fin des temps."
+      },
+      {
+            "Id": 340,
+            "TextId": "Depuis ce jour, nous ne distinguons\nplus les choses que d'autres ne peuvent pas voir...",
+            "Text": "Depuis ce jour, nous ne distinguons\nplus les choses que d'autres ne peuvent pas voir..."
+      },
+      {
+            "Id": 341,
+            "TextId": "9 septembre, 17h40",
+            "Text": "9 septembre, 17h40"
+      },
+      {
+            "Id": 342,
+            "TextId": "Le manoir n'apparaissait pas sur la carte,\nalors nous avons d  demander\naux villageois o  il se trouvait.",
+            "Text": "Le manoir n'apparaissait pas sur la carte,\nalors nous avons d  demander\naux villageois o  il se trouvait."
+      },
+      {
+            "Id": 343,
+            "TextId": "Ils nous ont dit que le manoir\nHimuro  tait vide depuis\nplusieurs d cennies.",
+            "Text": "Ils nous ont dit que le manoir\nHimuro  tait vide depuis\nplusieurs d cennies."
+      },
+      {
+            "Id": 344,
+            "TextId": "Les m mes qui ont tent  de\nnous dissuader de venir ici,\nce qui est assez d concertant.",
+            "Text": "Les m mes qui ont tent  de\nnous dissuader de venir ici,\nce qui est assez d concertant."
+      },
+      {
+            "Id": 345,
+            "TextId": "9 septembre,  21h40",
+            "Text": "9 septembre,  21h40"
+      },
+      {
+            "Id": 346,
+            "TextId": "La peur de la montagne la nuit nous\na d cid s   rester travailler ici.",
+            "Text": "La peur de la montagne la nuit nous\na d cid s   rester travailler ici."
+      },
+      {
+            "Id": 347,
+            "TextId": "J'ai visit  quelques pi ces.\nMalgr  les apparences ext rieures,\nl'int rieur est plut t en bon  tat.",
+            "Text": "J'ai visit  quelques pi ces.\nMalgr  les apparences ext rieures,\nl'int rieur est plut t en bon  tat."
+      },
+      {
+            "Id": 348,
+            "TextId": "Un peu plus t t, j'ai cru voir la vague \nsilhouette blanch tre d'une femme dans\nle hall pr s de l'entr e.",
+            "Text": "Un peu plus t t, j'ai cru voir la vague \nsilhouette blanch tre d'une femme dans\nle hall pr s de l'entr e."
+      },
+      {
+            "Id": 349,
+            "TextId": "Je vais faire un rapport de ces\napparitions et je les publierai\nplus tard.",
+            "Text": "Je vais faire un rapport de ces\napparitions et je les publierai\nplus tard."
+      },
+      {
+            "Id": 350,
+            "TextId": "10 septembre, 10h20",
+            "Text": "10 septembre, 10h20"
+      },
+      {
+            "Id": 351,
+            "TextId": "Nous avons d couvert des\nphotos troublantes dans\nune commode.",
+            "Text": "Nous avons d couvert des\nphotos troublantes dans\nune commode."
+      },
+      {
+            "Id": 352,
+            "TextId": "S'agirait-il des enfants\ndu folkloriste dont Koji\nparle dans ses notes ?",
+            "Text": "S'agirait-il des enfants\ndu folkloriste dont Koji\nparle dans ses notes ?"
+      },
+      {
+            "Id": 353,
+            "TextId": "La photo est assez vieille,\ndes enfants jouent   chat.",
+            "Text": "La photo est assez vieille,\ndes enfants jouent   chat."
+      },
+      {
+            "Id": 354,
+            "TextId": "Dans le coin de la photo,\non voit une vague image d'une\njeune fille en kimono blanc.",
+            "Text": "Dans le coin de la photo,\non voit une vague image d'une\njeune fille en kimono blanc."
+      },
+      {
+            "Id": 355,
+            "TextId": "Son doigt indique cette\ndirection et ses yeux semblent\nporter une accusation silencieuse.",
+            "Text": "Son doigt indique cette\ndirection et ses yeux semblent\nporter une accusation silencieuse."
+      },
+      {
+            "Id": 356,
+            "TextId": "11 septembre,  20h16",
+            "Text": "11 septembre,  20h16"
+      },
+      {
+            "Id": 357,
+            "TextId": "Nous avons fouill  tout le\nmanoir mais nous n'avons pas pu\ntrouver Koji.",
+            "Text": "Nous avons fouill  tout le\nmanoir mais nous n'avons pas pu\ntrouver Koji."
+      },
+      {
+            "Id": 358,
+            "TextId": "Malgr  la taille d mesur e de ce manoir,\nje suis certaine que nous aurions d \nle trouver. Serait-il d j  parti ?",
+            "Text": "Malgr  la taille d mesur e de ce manoir,\nje suis certaine que nous aurions d \nle trouver. Serait-il d j  parti ?"
+      },
+      {
+            "Id": 359,
+            "TextId": "Il n'a pas arr t  de parler\nde  plus de cordes  depuis\nque nous avons pris des photos hier...",
+            "Text": "Il n'a pas arr t  de parler\nde  plus de cordes  depuis\nque nous avons pris des photos hier..."
+      },
+      {
+            "Id": 360,
+            "TextId": "12 septembre, 9h00.",
+            "Text": "12 septembre, 9h00."
+      },
+      {
+            "Id": 361,
+            "TextId": "...J'ai trouv  Koji.",
+            "Text": "...J'ai trouv  Koji."
+      },
+      {
+            "Id": 362,
+            "TextId": "Il est mort de la m me mani re \nque l'homme trouv  dans le \nvillage de montagne...",
+            "Text": "Il est mort de la m me mani re \nque l'homme trouv  dans le \nvillage de montagne..."
+      },
+      {
+            "Id": 363,
+            "TextId": "Sa t te et ses membres\n taient tranch s...",
+            "Text": "Sa t te et ses membres\n taient tranch s..."
+      },
+      {
+            "Id": 364,
+            "TextId": "Je ne crois pas ce qui arrive...",
+            "Text": "Je ne crois pas ce qui arrive..."
+      },
+      {
+            "Id": 365,
+            "TextId": "Depuis que nous avons rencontr \ncette fille, j'ai eu d' tranges visions...",
+            "Text": "Depuis que nous avons rencontr \ncette fille, j'ai eu d' tranges visions..."
+      },
+      {
+            "Id": 366,
+            "TextId": "Tous les fant mes du manoir\nhurlent et crient apr s moi.",
+            "Text": "Tous les fant mes du manoir\nhurlent et crient apr s moi."
+      },
+      {
+            "Id": 367,
+            "TextId": "Je ne pense pas qu'ils me\nlaisseront sortir de ce manoir.",
+            "Text": "Je ne pense pas qu'ils me\nlaisseront sortir de ce manoir."
+      },
+      {
+            "Id": 368,
+            "TextId": "Je ne sais pas combien de temps\nje peux rester sereine.",
+            "Text": "Je ne sais pas combien de temps\nje peux rester sereine."
+      },
+      {
+            "Id": 369,
+            "TextId": "Bref, je laisse cette cassette.",
+            "Text": "Bref, je laisse cette cassette."
+      },
+      {
+            "Id": 370,
+            "TextId": "Si quelqu'un l' coute un jour,\nje vous en prie, dites-moi\nce qui m'est arriv .",
+            "Text": "Si quelqu'un l' coute un jour,\nje vous en prie, dites-moi\nce qui m'est arriv ."
+      },
+      {
+            "Id": 371,
+            "TextId": "Mais bon...\nj'esp re que ce n'est qu'un r ve...",
+            "Text": "Mais bon...\nj'esp re que ce n'est qu'un r ve..."
+      },
+      {
+            "Id": 372,
+            "TextId": "12 septembre, 15h20",
+            "Text": "12 septembre, 15h20"
+      },
+      {
+            "Id": 373,
+            "TextId": "Je sais que  a para t  trange\nmais il y a une pr sence autre\nque la n tre dans ce manoir.",
+            "Text": "Je sais que  a para t  trange\nmais il y a une pr sence autre\nque la n tre dans ce manoir."
+      },
+      {
+            "Id": 374,
+            "TextId": "Je l'ai vue.\nC' tait une femme en kimono blanc.",
+            "Text": "Je l'ai vue.\nC' tait une femme en kimono blanc."
+      },
+      {
+            "Id": 375,
+            "TextId": "Il est clair qu'il se \npasse quelque chose ici.",
+            "Text": "Il est clair qu'il se \npasse quelque chose ici."
+      },
+      {
+            "Id": 376,
+            "TextId": "Avons-nous inconsciemment \nr veill  quelque chose ?",
+            "Text": "Avons-nous inconsciemment \nr veill  quelque chose ?"
+      },
+      {
+            "Id": 377,
+            "TextId": "Ou peut- tre nous avons  t \nattir s ici pour mourir ?",
+            "Text": "Ou peut- tre nous avons  t \nattir s ici pour mourir ?"
+      },
+      {
+            "Id": 378,
+            "TextId": "Est-ce elle qui provoque\ncette catastrophe ?",
+            "Text": "Est-ce elle qui provoque\ncette catastrophe ?"
+      },
+      {
+            "Id": 379,
+            "TextId": "Toutes ces morts ?\nKoji, Tomoe...",
+            "Text": "Toutes ces morts ?\nKoji, Tomoe..."
+      },
+      {
+            "Id": 380,
+            "TextId": "Suis-je le prochain   mourir ?",
+            "Text": "Suis-je le prochain   mourir ?"
+      },
+      {
+            "Id": 381,
+            "TextId": "Le rituel de la Vierge du\nsanctuaire des cordes,\nd'apr s la l gende.",
+            "Text": "Le rituel de la Vierge du\nsanctuaire des cordes,\nd'apr s la l gende."
+      },
+      {
+            "Id": 382,
+            "TextId": "Les bras, les jambes et le cou.\nOn dit que lorsque tous ont  t  marqu s,\nla mal diction est compl te.",
+            "Text": "Les bras, les jambes et le cou.\nOn dit que lorsque tous ont  t  marqu s,\nla mal diction est compl te."
+      },
+      {
+            "Id": 383,
+            "TextId": "Des cordes apparaissent sur ma photo.\nJe n'ai plus de temps.",
+            "Text": "Des cordes apparaissent sur ma photo.\nJe n'ai plus de temps."
+      },
+      {
+            "Id": 384,
+            "TextId": "Les rituels interdits de cette r gion...",
+            "Text": "Les rituels interdits de cette r gion..."
+      },
+      {
+            "Id": 385,
+            "TextId": "On dirait que M. Takamine les  tudiait...",
+            "Text": "On dirait que M. Takamine les  tudiait..."
+      },
+      {
+            "Id": 386,
+            "TextId": "Je me demande si son groupe\nest toujours l  ?",
+            "Text": "Je me demande si son groupe\nest toujours l  ?"
+      },
+      {
+            "Id": 387,
+            "TextId": "J'ai captur  un fant me...\navec cet appareil.",
+            "Text": "J'ai captur  un fant me...\navec cet appareil."
+      },
+      {
+            "Id": 388,
+            "TextId": "Cet appareil a le pouvoir d'exposer\ndes choses invisibles   l' il nu.",
+            "Text": "Cet appareil a le pouvoir d'exposer\ndes choses invisibles   l' il nu."
+      },
+      {
+            "Id": 389,
+            "TextId": "Je me souviens de l'incident\nqui me r v la son pouvoir\nunique de capturer les fant mes.",
+            "Text": "Je me souviens de l'incident\nqui me r v la son pouvoir\nunique de capturer les fant mes."
+      },
+      {
+            "Id": 390,
+            "TextId": "",
+            "Text": ""
+      },
+      {
+            "Id": 391,
+            "TextId": "Des cordes... Des cordes...\ntoujours plus de cordes...",
+            "Text": "Des cordes... Des cordes...\ntoujours plus de cordes..."
+      },
+      {
+            "Id": 392,
+            "TextId": "M. Takamine... Tomoe...\nO   tes-vous?",
+            "Text": "M. Takamine... Tomoe...\nO   tes-vous?"
+      },
+      {
+            "Id": 393,
+            "TextId": "Il y a quelque chose ici...",
+            "Text": "Il y a quelque chose ici..."
+      },
+      {
+            "Id": 394,
+            "TextId": "Cette femme...\nCette femme au kimono blanc s'approche...",
+            "Text": "Cette femme...\nCette femme au kimono blanc s'approche..."
+      },
+      {
+            "Id": 395,
+            "TextId": "O  sont-ils pass s ?",
+            "Text": "O  sont-ils pass s ?"
+      },
+      {
+            "Id": 396,
+            "TextId": "Comment puis-je rompre la\nmal diction de la corde ?",
+            "Text": "Comment puis-je rompre la\nmal diction de la corde ?"
+      },
+      {
+            "Id": 397,
+            "TextId": "A l'aide...  A l'aide...",
+            "Text": "A l'aide...  A l'aide..."
+      },
+      {
+            "Id": 398,
+            "TextId": "La Vierge du sanctuaire des cordes...\nLa mal diction...",
+            "Text": "La Vierge du sanctuaire des cordes...\nLa mal diction..."
+      },
+      {
+            "Id": 399,
+            "TextId": "C'est la derni re vierge...\nKirie...",
+            "Text": "C'est la derni re vierge...\nKirie..."
+      },
+      {
+            "Id": 400,
+            "TextId": "Je ne voulais pas venir.\nMon instinct m'avait pr venu.",
+            "Text": "Je ne voulais pas venir.\nMon instinct m'avait pr venu."
+      },
+      {
+            "Id": 401,
+            "TextId": "Par ici... Par ici...",
+            "Text": "Par ici... Par ici..."
+      },
+      {
+            "Id": 402,
+            "TextId": "Kirie...",
+            "Text": "Kirie..."
+      },
+      {
+            "Id": 403,
+            "TextId": "Tomoe...",
+            "Text": "Tomoe..."
+      },
+      {
+            "Id": 404,
+            "TextId": "O  est la cl  ?\nJe ne la trouve pas...",
+            "Text": "O  est la cl  ?\nJe ne la trouve pas..."
+      },
+      {
+            "Id": 405,
+            "TextId": "Cette fille essaie de dire quelque chose...\nquelque chose d'important...",
+            "Text": "Cette fille essaie de dire quelque chose...\nquelque chose d'important..."
+      },
+      {
+            "Id": 406,
+            "TextId": "Kirie... Kirie...",
+            "Text": "Kirie... Kirie..."
+      },
+      {
+            "Id": 407,
+            "TextId": "M. Takamine... \nSauvez-moi...",
+            "Text": "M. Takamine... \nSauvez-moi..."
+      },
+      {
+            "Id": 408,
+            "TextId": "Si seulement ce n' tait qu'un r ve...",
+            "Text": "Si seulement ce n' tait qu'un r ve..."
+      },
+      {
+            "Id": 409,
+            "TextId": "A l'aide ",
+            "Text": "A l'aide "
+      },
+      {
+            "Id": 410,
+            "TextId": "Par ici...",
+            "Text": "Par ici..."
+      },
+      {
+            "Id": 411,
+            "TextId": "Je dois franchir cette porte...\nLe miroir doit  tre la...",
+            "Text": "Je dois franchir cette porte...\nLe miroir doit  tre la..."
+      },
+      {
+            "Id": 412,
+            "TextId": "Mikoto, plus vite...",
+            "Text": "Mikoto, plus vite..."
+      },
+      {
+            "Id": 413,
+            "TextId": "Mikoto...",
+            "Text": "Mikoto..."
+      },
+      {
+            "Id": 414,
+            "TextId": "Joue avec moi...",
+            "Text": "Joue avec moi..."
+      },
+      {
+            "Id": 415,
+            "TextId": "Par ici... Par ici...",
+            "Text": "Par ici... Par ici..."
+      },
+      {
+            "Id": 416,
+            "TextId": "Je dois remettre ce miroir\n  cet homme...",
+            "Text": "Je dois remettre ce miroir\n  cet homme..."
+      },
+      {
+            "Id": 417,
+            "TextId": "Oh, Yae... \nPourquoi t'es tu donn  la mort ?",
+            "Text": "Oh, Yae... \nPourquoi t'es tu donn  la mort ?"
+      },
+      {
+            "Id": 418,
+            "TextId": "Si seulement tu n'avais pas\ntrouv  cet appareil... Yae...",
+            "Text": "Si seulement tu n'avais pas\ntrouv  cet appareil... Yae..."
+      },
+      {
+            "Id": 419,
+            "TextId": "Reviens...",
+            "Text": "Reviens..."
+      },
+      {
+            "Id": 420,
+            "TextId": "L'autel des cordes...\nLe rituel de strangulation...",
+            "Text": "L'autel des cordes...\nLe rituel de strangulation..."
+      },
+      {
+            "Id": 421,
+            "TextId": "Je vous en prie...\nArr tez-moi...",
+            "Text": "Je vous en prie...\nArr tez-moi..."
+      },
+      {
+            "Id": 422,
+            "TextId": "Laissez-moi sortir...\nLaissez-moi sortir de ce manoir...",
+            "Text": "Laissez-moi sortir...\nLaissez-moi sortir de ce manoir..."
+      },
+      {
+            "Id": 423,
+            "TextId": "Je dois lui dire...\nLe miroir... Le miroir...",
+            "Text": "Je dois lui dire...\nLe miroir... Le miroir..."
+      },
+      {
+            "Id": 424,
+            "TextId": "La derni re statue de Bouddha est...\n  la porte de Shinto...",
+            "Text": "La derni re statue de Bouddha est...\n  la porte de Shinto..."
+      },
+      {
+            "Id": 425,
+            "TextId": "Viens me chercher  \nJ'attends depuis si longtemps.",
+            "Text": "Viens me chercher  \nJ'attends depuis si longtemps."
+      },
+      {
+            "Id": 426,
+            "TextId": "Je dois remettre le miroir   cet homme.",
+            "Text": "Je dois remettre le miroir   cet homme."
+      },
+      {
+            "Id": 427,
+            "TextId": "Mikoto... D p che-toi...",
+            "Text": "Mikoto... D p che-toi..."
+      },
+      {
+            "Id": 428,
+            "TextId": "O  est partie ma fille...?",
+            "Text": "O  est partie ma fille...?"
+      },
+      {
+            "Id": 429,
+            "TextId": "Le Masque aveuglant est la cl \nde la porte...",
+            "Text": "Le Masque aveuglant est la cl \nde la porte..."
+      },
+      {
+            "Id": 430,
+            "TextId": "Le Masque aveuglant...",
+            "Text": "Le Masque aveuglant..."
+      },
+      {
+            "Id": 431,
+            "TextId": "Cette terre est d sormais ternie...",
+            "Text": "Cette terre est d sormais ternie..."
+      },
+      {
+            "Id": 432,
+            "TextId": "Nous devons la sceller avant\nqu'il ne soit trop tard... Vite... ",
+            "Text": "Nous devons la sceller avant\nqu'il ne soit trop tard... Vite... "
+      },
+      {
+            "Id": 433,
+            "TextId": "Lorsque la Calamit  s'abattra,\nnous mourrons tous  ",
+            "Text": "Lorsque la Calamit  s'abattra,\nnous mourrons tous  "
+      },
+      {
+            "Id": 434,
+            "TextId": "Il est devenu fou...\nIl s'est mis   tuer tous ceux\nqui croisaient son chemin.",
+            "Text": "Il est devenu fou...\nIl s'est mis   tuer tous ceux\nqui croisaient son chemin."
+      },
+      {
+            "Id": 435,
+            "TextId": "Vierge du sanctuaire des cordes, hein ?\nSa seule raison d' tre est de mourir...",
+            "Text": "Vierge du sanctuaire des cordes, hein ?\nSa seule raison d' tre est de mourir..."
+      },
+      {
+            "Id": 436,
+            "TextId": "Kirie...\nLe rituel de strangulation...",
+            "Text": "Kirie...\nLe rituel de strangulation..."
+      },
+      {
+            "Id": 437,
+            "TextId": "Que le rituel commence...\namenez Kirie...",
+            "Text": "Que le rituel commence...\namenez Kirie..."
+      },
+      {
+            "Id": 438,
+            "TextId": "Le rituel a  chou   \nC'est termin ...",
+            "Text": "Le rituel a  chou   \nC'est termin ..."
+      },
+      {
+            "Id": 439,
+            "TextId": "Kirie... \nPourquoi t'es-tu attach e   ce monde ?\nTu ne conna tras que souffrance...",
+            "Text": "Kirie... \nPourquoi t'es-tu attach e   ce monde ?\nTu ne conna tras que souffrance..."
+      },
+      {
+            "Id": 440,
+            "TextId": "Kirie... Pauvre petite.\nQuel dommage, mais elle doit  tre scell e.",
+            "Text": "Kirie... Pauvre petite.\nQuel dommage, mais elle doit  tre scell e."
+      },
+      {
+            "Id": 441,
+            "TextId": "Les cordes...\nIl y en a davantage...",
+            "Text": "Les cordes...\nIl y en a davantage..."
+      },
+      {
+            "Id": 442,
+            "TextId": "O  est la cl  ?\nJe ne la trouve pas...",
+            "Text": "O  est la cl  ?\nJe ne la trouve pas..."
+      },
+      {
+            "Id": 443,
+            "TextId": "Qu'est-ce que tu veux dire ?",
+            "Text": "Qu'est-ce que tu veux dire ?"
+      },
+      {
+            "Id": 444,
+            "TextId": "Des marques de corde sur\nmon corps... Comme Koji...",
+            "Text": "Des marques de corde sur\nmon corps... Comme Koji..."
+      },
+      {
+            "Id": 445,
+            "TextId": "Encore une... Encore une statue\nde Bouddha et le Miroir sacr  sera...",
+            "Text": "Encore une... Encore une statue\nde Bouddha et le Miroir sacr  sera..."
+      },
+      {
+            "Id": 446,
+            "TextId": "Je dois me d p cher...\nJe commence   avoir des\nmarques de corde...",
+            "Text": "Je dois me d p cher...\nJe commence   avoir des\nmarques de corde..."
+      },
+      {
+            "Id": 447,
+            "TextId": "Kirie...\nVierge... des cordes...",
+            "Text": "Kirie...\nVierge... des cordes..."
+      },
+      {
+            "Id": 448,
+            "TextId": "Derri re cette porte se trouve\nLe secret du rituel...",
+            "Text": "Derri re cette porte se trouve\nLe secret du rituel..."
+      },
+      {
+            "Id": 449,
+            "TextId": "Ce fut une erreur d'habiter ce manoir...",
+            "Text": "Ce fut une erreur d'habiter ce manoir..."
+      },
+      {
+            "Id": 450,
+            "TextId": "Le Masque aveuglant doit\n tre quelque part dans ce manoir...",
+            "Text": "Le Masque aveuglant doit\n tre quelque part dans ce manoir..."
+      },
+      {
+            "Id": 451,
+            "TextId": "O  est ma fille Mikoto ?",
+            "Text": "O  est ma fille Mikoto ?"
+      },
+      {
+            "Id": 452,
+            "TextId": "Les enfants...\nO  sont pass s les enfants ?",
+            "Text": "Les enfants...\nO  sont pass s les enfants ?"
+      },
+      {
+            "Id": 453,
+            "TextId": "Ma fille... Elle ne faisait\nque jouer   Chat-d mon...",
+            "Text": "Ma fille... Elle ne faisait\nque jouer   Chat-d mon..."
+      },
+      {
+            "Id": 454,
+            "TextId": "Impossible... Comment un\nappareil peut-il exposer\nquelque chose qui n'existe pas...?",
+            "Text": "Impossible... Comment un\nappareil peut-il exposer\nquelque chose qui n'existe pas...?"
+      },
+      {
+            "Id": 455,
+            "TextId": "Je le vois... Je le vois...",
+            "Text": "Je le vois... Je le vois..."
+      }
+]
